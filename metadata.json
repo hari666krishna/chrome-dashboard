@@ -1,0 +1,6 @@
+{
+  "name": "THE UPSIDE DOWN",
+  "description": "Your Personal Productivity Control Center — Stranger Things-inspired Chrome New Tab productivity dashboard with bookmarks, categories, daily checklist, and Pomodoro timer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
